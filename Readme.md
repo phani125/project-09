@@ -13,7 +13,7 @@
 ## Built with:
 
 - HTML
-- Project was build using Flexbox, Positions ans Wrapper
+- Project was build using Flexbox, Positions and Wrapper
 
 
 ## Time taken:
